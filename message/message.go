@@ -1,4 +1,4 @@
-package fhttp
+package message
 
 import (
 	"bytes"
