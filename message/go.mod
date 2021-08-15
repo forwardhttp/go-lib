@@ -1,3 +1,3 @@
-module github.com/fhttp/go-lib/message
+module github.com/forwardhttp/go-lib/message
 
 go 1.16

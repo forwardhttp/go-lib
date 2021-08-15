@@ -1,4 +1,4 @@
-module github.com/fhttp/go-lib/errors
+module github.com/forwardhttp/go-lib/errors
 
 go 1.16
 
